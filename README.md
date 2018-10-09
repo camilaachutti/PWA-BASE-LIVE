@@ -98,8 +98,6 @@ Para ser identificado corretamente como um PWA, um site precisa atender alguns r
 
 > Para ver essa lista com detalhes, visite a página oficial do Google em https://developers.google.com/web/progressive-web-apps/checklist
 
-> Utilizar como base para a criação dos PWAs o código disponível em https://github.com/mastertech-aulas/pwa-base
-
 ### O manifest.json
 
 O arquivo manifest.json deve ser criado na pasta raiz do site e deve ser referenciado no head da página da seguinte forma:
